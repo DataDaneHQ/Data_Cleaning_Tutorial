@@ -2,7 +2,7 @@
 
 ![Titanic Image](Images/Titanic_3.jpg)
 
-**Welcome to my Data Cleaning Tutorial!**
+### **Welcome to my Data Cleaning Tutorial!**
 
 In this guide, you'll embark on a journey to clean and prepare the Titanic dataset for analysis and machine learning. We’ll cover essential techniques like handling duplicates, addressing missing data, detecting and managing outliers, and correcting data types.
 

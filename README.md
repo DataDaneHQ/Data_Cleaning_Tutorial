@@ -12,4 +12,4 @@ Expect to dive into practical examples, with clear explanations and helpful code
 
 I hope you find this tutorial beneficial and inspiring! Feel free to try these methods on your own datasets and see how you can improve your data preparation skills.
 
-[Let's get started on unleashing the power of your data!](Data_Cleaning_Tutorial.jpynb)
+[Let's get started on unleashing the power of your data!](Data_Cleaning_Tutorial.ipynb)
